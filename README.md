@@ -8,6 +8,7 @@ A small study project on how to use IntelliJ effectively.
 | CTRL + UP         | Show all desktops (OSX) |
 | CTRL + RIGHT/LEFT | Switch desktop (OSX) |
 | CMD + SHIFT + 3/4 | Take screenshot (OSX) |
+| FN + UP/DOWN      | Page up / down (OSX) |
 
 ## My keyboard mapping
 I'm using Keymap #3 which is 'Mac OSX'.
@@ -49,8 +50,9 @@ I'm using Keymap #3 which is 'Mac OSX'.
 | CMD + Y | Delete Line |
 | CMD + I | Implement Members |
 | CMD + O | Override Members |
-| CMD + SHIFT + UP/DOWN | Move selected block up/down |
 | ALT + CMD + T | Surround with |
+| CMD + SHIFT + UP/DOWN | Move selected block up/down |
+| FN + CMD + UP/DOWN | Move caret to top/bottom |
 
 ## Searching
 
@@ -81,6 +83,13 @@ I'm using Keymap #3 which is 'Mac OSX'.
 | CMD + B | Navigate to declaration (apply on type) |
 | ALT + CMD + B | Navigate to implementation |
 | FN + ALT + LEFT | Toggle Navigation Bar |
+
+## Structure
+
+| Shortcut          | Description     |
+| ----------------- | --------------- |
+| CTRL + H | Type Hierarchy |
+| CTRL + I | Implicit Conversion (I changed it from (CTRL + Q) for obvious reasons) |
 
 ## Save
 
@@ -168,6 +177,12 @@ so you can quickly select the file and start editing.
 In the project window, enable the feature 'autoscroll from source', which is handy because the file that has the focus
 of the editor will be selected by default when you open the project window. Click on the option icon in the project
 view and select 'autoscroll from source'.
+
+## Keymap changes
+I changed some keymappings. You can change keymapping: (CMD + SHIFT + A -> keymap p), then search for the option and then remove the
+key and set a new one if applicable.
+
+- Implicit conversion. By default its (CTRL + Q) but I sometimes quit the IDE (CMD + Q) so I've changed it to (CTRL + I).
 
 ## Plugins
 - Presentation Assistant: shows used keyboard shortcuts; great for pair programming or presentations
