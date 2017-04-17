@@ -9,6 +9,7 @@ A small study project on how to use IntelliJ effectively.
 | CTRL + RIGHT/LEFT | Switch desktop (OSX) |
 | CMD + SHIFT + 3/4 | Take screenshot (OSX) |
 | FN + UP/DOWN      | Page up / down (OSX) |
+| FN + LEFT/RIGHT   | Home/End (OSX) |
 
 ## My keyboard mapping
 I'm using Keymap #3 which is 'Mac OSX'.
@@ -46,6 +47,7 @@ I'm using Keymap #3 which is 'Mac OSX'.
 | Shortcut          | Description     |
 | ----------------- | --------------- |
 | ALT + ENTER | Show Intention Actions |
+| Double ALT + UP/DOWN | Multiple Carets |
 | CMD + D | Duplicate Line |
 | CMD + Y | Delete Line |
 | CMD + I | Implement Members |
