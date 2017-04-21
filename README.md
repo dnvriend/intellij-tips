@@ -120,6 +120,9 @@ I'm using Keymap #3 which is 'Mac OSX'.
 | ----------------- | --------------- |
 | CMD + 1 | Toggle project Window |
 | CMD + 7 | Toggle Structure Window |
+| CMD + 9 | Toggle VCS Window |
+| ALT + F1 | Select current target in Window (like say Finder, VCS or Project) |
+| ALT + F12 | Toggle Terminal Window |
 | SHIFT + CMD + F12 | Hide All Windows |
 
 ## Settings/Configuration/Preferences
