@@ -10,6 +10,7 @@ A small study project on how to use IntelliJ effectively.
 | CTRL + DOWN       | Show all windows of current active application |
 | CMD + SHIFT + 3/4 | Take screenshot (OSX) |
 | FN + UP/DOWN      | Page up / down (OSX) |
+| FN + LEFT/RIGHT   | Home/End (OSX) |
 
 ## ITerm Shortcuts
 
@@ -61,6 +62,7 @@ I'm using Keymap #3 which is 'Mac OSX'.
 | Shortcut          | Description     |
 | ----------------- | --------------- |
 | ALT + ENTER | Show Intention Actions |
+| Double ALT + UP/DOWN | Multiple Carets |
 | CMD + D | Duplicate Line |
 | CMD + Y | Delete Line |
 | CMD + I | Implement Members |
