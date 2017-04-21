@@ -7,10 +7,25 @@ A small study project on how to use IntelliJ effectively.
 | ----------------- | --------------- |
 | CTRL + UP         | Show all desktops (OSX) |
 | CTRL + RIGHT/LEFT | Switch desktop (OSX) |
+| CTRL + DOWN       | Show all windows of current active application |
 | CMD + SHIFT + 3/4 | Take screenshot (OSX) |
 | FN + UP/DOWN      | Page up / down (OSX) |
 
-## My keyboard mapping
+## ITerm Shortcuts
+
+| Shortcut          | Description     |
+| ----------------- | --------------- |
+| CTRL + L | Clear Screen |
+| CTRL + D | Exit terminal |
+| CMD + D | Open a new terminal and split the screen vertically |
+| CMD + SHIFT + D | Open a new terminal and split the screen horizontally |
+| CMD + ] | Next terminal |
+| CMD + [ | Previous terminal |
+| CMD + f | Search |
+| CMD + (+) | Increase font size |
+| CMD + (-) | Decrease font size |
+
+## My IntelliJ keyboard mapping
 I'm using Keymap #3 which is 'Mac OSX'.
 
 ## IntelliJ Info/Help
@@ -105,6 +120,12 @@ I'm using Keymap #3 which is 'Mac OSX'.
 | CMD + 7 | Toggle Structure Window |
 | SHIFT + CMD + F12 | Hide All Windows |
 
+## Settings/Configuration/Preferences
+
+| Shortcut          | Description     |
+| ----------------- | --------------- |
+| CMD + , | Open Settings/Preferences Dialog |
+
 ## Recent Files
 (CMD + E) and (SHIFT + CMD + E) are really great to quickly navigate your recently edited files. Just select
 a recently edited file (ENTER) and you can start editing. Its also a great way to toggle between two files that
@@ -186,6 +207,7 @@ key and set a new one if applicable.
 
 ## Plugins
 - Presentation Assistant: shows used keyboard shortcuts; great for pair programming or presentations
+- [IntelliJDashPlugin](https://github.com/gdelmas/IntelliJDashPlugin): A smart and simple plugin that provides keyboard shortcut access for [Dash](https://kapeli.com/dash).
 
 ## Youtube
 - [IDEA Tips and Tricks - Hadi Hariri](https://www.youtube.com/watch?v=bFcaO1pXzws)
