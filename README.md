@@ -26,10 +26,21 @@ A small study project on how to use IntelliJ effectively.
 | CMD + (+) | Increase font size |
 | CMD + (-) | Decrease font size |
 
+## VLC Shortcuts
+
+| Shortcut          | Description     |
+| ----------------- | --------------- |
+| CMD + UP | Increase volume |
+| CMD + DOWN | Lower volume |
+| CMD + ALT + RIGHT | Step +10 seconds |
+| CMD + ALT + LEFT | Step -10 seconds |
+| CMD + J | Jump to time |
+| SPACE / CMD + P | Pause / Play |
+
 ## My IntelliJ keyboard mapping
 I'm using Keymap #3 which is 'Mac OSX'.
 
-## IntelliJ Info/Help
+## IntelliJ Info/Help/Documentation
 
 | Shortcut          | Description     |
 | ----------------- | --------------- |
@@ -39,6 +50,7 @@ I'm using Keymap #3 which is 'Mac OSX'.
 | CMD + F1 | Error Description (when caret is over red line in code |
 | CMD + P | Parameter Info |
 | CTRL + J | Quick Documentation |
+| CMD + SHIFT + D | Search in Dash |
 
 ## Selecting
 
