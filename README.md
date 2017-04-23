@@ -12,6 +12,19 @@ A small study project on how to use IntelliJ effectively.
 | FN + UP/DOWN      | Page up / down (OSX) |
 | FN + LEFT/RIGHT   | Home/End (OSX) |
 
+## OSX Searchlight Shortcuts
+
+| Shortcut          | Description     |
+| ----------------- | --------------- |
+| CMD + SPACE | Open Spotlight |
+| CMD + ALT + SPACE | Open Spotlight in Finder |
+| Enter | Open search item |
+| CMD + Enter | Open to location of search item in Finder |
+| UP/DOWN | Navigate search results |
+| CMD + UP/DOWN | Jump categories in search results |
+| hold CMD | Show path/location |
+| CMD + i | Get Info on search item |
+
 ## ITerm Shortcuts
 
 | Shortcut          | Description     |
