@@ -26,6 +26,7 @@ A small study project on how to use IntelliJ effectively.
 | CMD + i | Get Info on search item |
 
 ## ITerm Shortcuts
+Shortcuts for the [iterm terminal emulator](https://www.iterm2.com/)
 
 | Shortcut          | Description     |
 | ----------------- | --------------- |
@@ -40,6 +41,7 @@ A small study project on how to use IntelliJ effectively.
 | CMD + (-) | Decrease font size |
 
 ## VLC Shortcuts
+Shortcuts for the [VLC media player](http://www.videolan.org/)
 
 | Shortcut          | Description     |
 | ----------------- | --------------- |
@@ -49,6 +51,30 @@ A small study project on how to use IntelliJ effectively.
 | CMD + ALT + LEFT | Step -10 seconds |
 | CMD + J | Jump to time |
 | SPACE / CMD + P | Pause / Play |
+
+## Reveal.js Shortcuts
+Shortcuts for [reveal.js](https://github.com/hakimel/reveal.js)
+
+| Shortcut          | Description     |
+| ----------------- | --------------- |
+| Up, Down, Left, Right | Navigation |
+| f | Full-screen |
+| s | Show slide notes |
+| o | Toggle overview |
+| . (Period or b) | Turn screen black |
+| Esc | Escape from full-screen, or toggle overview |
+
+## Deckset Shortcuts
+Shortcuts for [Deckset](https://www.decksetapp.com/)
+which are also available [here](https://docs.decksetapp.com/English.lproj/02-keyboard-shortcuts.html)
+
+| Shortcut          | Description     |
+| ----------------- | --------------- |
+| ALT + CMD + P | Enter Presentation Mode |
+| ALT + CMD + R | Enter Rehearsal Mode |
+| LEFT / RIGHT | Tab through slides	|
+| x | Switch presenter display in Presentation Mode	|
+| b | Display a black screen in Presentation Mode |
 
 ## My IntelliJ keyboard mapping
 I'm using Keymap #3 which is 'Mac OSX'.
