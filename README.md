@@ -25,6 +25,15 @@ A small study project on how to use IntelliJ effectively.
 | hold CMD | Show path/location |
 | CMD + i | Get Info on search item |
 
+## Google Chrome Shortcuts
+
+| Shortcut          | Description     |
+| ----------------- | --------------- |
+| CMD + SHIFT + B | Show/hide shortcuts |
+| CMD + SHIFT + F | Show/hide navigation bar |
+| CMD + ALT + I | Show/hide developer tools |
+| CTRL + CMD + F | Toggle full screen |
+
 ## ITerm Shortcuts
 Shortcuts for the [iterm terminal emulator](https://www.iterm2.com/)
 
