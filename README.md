@@ -25,6 +25,66 @@ A small study project on how to use IntelliJ effectively.
 | hold CMD | Show path/location |
 | CMD + i | Get Info on search item |
 
+## Vi Shortcuts
+For Vim tips and tricks see [this](https://www.cs.oberlin.edu/~kuperman/help/vim/home.html) page.
+
+## Vi Help
+The most import thing to learn about in vim is:
+
+```bash
+:help
+```
+
+and
+
+```bash
+:help command
+```
+
+- TAB - cycles through possible command completions
+- CTRL-d - lists possible command completions
+
+For example, try:
+
+```bash
+:help tags (then CTRL-d and TAB)
+```
+
+Do 'help i_ CTRL-d' for insert commands, 'v_' for visual, etc.
+
+Also, when in the help pages, 'CTRL-]' jumps to subjects between |bars| and 'CTRL-T' jumps back (and, of course, ':q' to quit).
+
+## Selecting Text
+
+| Shortcut          | Description     |
+| ----------------- | --------------- |
+| V | selects entire line |
+| v | selects range of text |
+| ctrl + v | selects columns |
+
+## Copying/Deleting Text
+
+After selecting the text, type 'd' to delete or
+'y' to copy, you can then set the cursor anywhere and type
+'p' to paste the selected text. 
+
+## Vi Multiple Windows
+If you want, you can probably do everything from one vim session! :) Here are some commands to turn one vim session (inside one xterm) into multiple windows.
+
+
+| Shortcut          | Description     |
+| ----------------- | --------------- |
+| :e filename | edit another file |
+| :split filename  | split window and load another file |
+| ctrl-w up arrow | move cursor up a window |
+| ctrl-w ctrl-w    | move cursor to another window (cycle) |
+| ctrl-w_ |         | maximize current window |
+| ctrl-w= |         | make all equal size |
+| :vsplit file |    | vertical split |
+| :sview file |      | same as split, but readonly |
+| :hide  |          | close current window |
+| :only |           | keep only this window open |
+
 ## Google Chrome Shortcuts
 
 | Shortcut          | Description     |
