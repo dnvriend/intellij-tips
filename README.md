@@ -68,6 +68,17 @@ After selecting the text, type 'd' to delete or
 'y' to copy, you can then set the cursor anywhere and type
 'p' to paste the selected text. 
 
+## File Explorer
+Vim features a [file explorer](http://vim.wikia.com/wiki/File_explorer) that can be
+activated when typing ':Explore'. You can switch to/from the file explorer with the
+'CTRL + 6' shortcut. 
+
+There are some other approaches for browsing files, for example:
+
+- type ':e' then press Space and 'Ctrl + DD'. That will list file names in the current directory. You can type a name and press Enter to edit that file.
+- type ':set autochdir' to automatically change the working directory to the file that you edit, so that its easy to get other files in the same dir without navigating.
+- type ':e **/*.scala' and repeatedly pressing TAB to step through the files that have been found. 
+
 ## Vi Multiple Windows
 If you want, you can probably do everything from one vim session! :) Here are some commands to turn one vim session (inside one xterm) into multiple windows.
 
