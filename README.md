@@ -163,6 +163,11 @@ I'm using Keymap #3 which is 'Mac OSX'.
 
 | Shortcut          | Description     |
 | ----------------- | --------------- |
+| F2 | Goto next warning |
+| ALT+Enter | Quick fix |
+
+| Shortcut          | Description     |
+| ----------------- | --------------- |
 | HELP -> Keymap Reference | Keyboard shortcuts (put on other desktop and switch) |
 | HELP -> Productivity Guide | Shows what features you use most often |
 | ALT + ENTER | Show Intention Actions |
